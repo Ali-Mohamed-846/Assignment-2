@@ -1,0 +1,12 @@
+This file is used to test the compression pipeline in Node.js.
+The pipeline reads the file, compresses it using Gzip, and writes the compressed data into a new file named data.txt.gz.
+Streams make this process memory-efficient because they handle data in chunks instead of loading the whole file into memory.
+This file is used to test the compression pipeline in Node.js.
+The pipeline reads the file, compresses it using Gzip, and writes the compressed data into a new file named data.txt.gz.
+Streams make this process memory-efficient because they handle data in chunks instead of loading the whole file into memory.
+This file is used to test the compression pipeline in Node.js.
+The pipeline reads the file, compresses it using Gzip, and writes the compressed data into a new file named data.txt.gz.
+Streams make this process memory-efficient because they handle data in chunks instead of loading the whole file into memory.
+This file is used to test the compression pipeline in Node.js.
+The pipeline reads the file, compresses it using Gzip, and writes the compressed data into a new file named data.txt.gz.
+Streams make this process memory-efficient because they handle data in chunks instead of loading the whole file into memory.

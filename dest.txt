@@ -1,0 +1,16 @@
+Node.js makes file handling simple and efficient.
+This file is used to test readable and writable streams.
+The content of this file will be copied to another file called dest.txt.
+If the copy operation succeeds, dest.txt should contain exactly the same text.
+Node.js makes file handling simple and efficient.
+This file is used to test readable and writable streams.
+The content of this file will be copied to another file called dest.txt.
+If the copy operation succeeds, dest.txt should contain exactly the same text.
+Node.js makes file handling simple and efficient.
+This file is used to test readable and writable streams.
+The content of this file will be copied to another file called dest.txt.
+If the copy operation succeeds, dest.txt should contain exactly the same text.
+Node.js makes file handling simple and efficient.
+This file is used to test readable and writable streams.
+The content of this file will be copied to another file called dest.txt.
+If the copy operation succeeds, dest.txt should contain exactly the same text.
