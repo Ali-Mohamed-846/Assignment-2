@@ -1,5 +1,14 @@
 const path = require("node:path");
 
+function logCurrentFileAndDirPath() {
+    console.log({
+        File: __filename,
+        Dir: __dirname
+    });
+}
+
+logCurrentFileAndDirPath();
+
 console.log(path.basename('/user/files/report.pdf'))
 const obj = { dir: "/folder", name: "app", ext: ".js" }
 console.log(path.format(obj))
